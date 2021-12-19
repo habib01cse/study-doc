@@ -1,0 +1,35 @@
+
+
+
+How to implement chartjs in Angualr Application.
+First Ref
+https://www.youtube.com/watch?v=ElMERf6k50w&ab_channel=CreativeDeveloper
+
+Second Ref
+https://createdevs.blogspot.com/2021/04/how-to-install-chart-js-chart-js-chart.html
+
+
+
+
+
+How to implement Highchart in Angular Application 
+https://edupala.com/how-to-implement-highcharts-angular/
+
+
+
+See
+https://www.youtube.com/watch?v=yNoU9Pgb7co&ab_channel=Leen%27sTech
+
+
+https://www.youtube.com/watch?v=d8rLhCLcoc4&ab_channel=DotNetCare
+
+
+
+
+Responsible for the design and developing both front-end and back-end.
+
+pochegroup.com
+
+
+
+

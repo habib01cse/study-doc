@@ -1,0 +1,6 @@
+
+How to use Linux in windows mechine
+-----------------------------------
+	What is WSL
+	-------------------
+		WSL is linux of subsysten. In side the windows set a kernel for Linux

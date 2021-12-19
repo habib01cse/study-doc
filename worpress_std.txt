@@ -1,0 +1,23 @@
+
+Wrdpress : 
+
+How to intergate payment getway: 
+https://www.youtube.com/watch?v=yfTEnrzdZSo&ab_channel=ShopnoTech
+
+How to intergate payment getway: 
+https://www.youtube.com/watch?v=yfTEnrzdZSo&ab_channel=ShopnoTech
+
+
+
+SSL Commerces
+ https://www.youtube.com/watch?v=GzA6Ej46r3Q&ab_channel=TechTrigger
+ 
+ 
+ 
+Serarch key: how to redirect page in wordpress without plugin
+==========================
+Reference:
+https://artisansweb.net/redirect-old-url-new-url-without-plugin-wordpress/
+
+
+

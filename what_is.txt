@@ -1,0 +1,19 @@
+
+-> What is nginx server?
+-> What is proxy and reverse proxy server ?
+-> What is ORM ?
+-> What is diffrent between the Interface and class
+-> Diffrence between the Interface and Abstract Class 
+-> What is Polimorfisom 
+-> Link list traversing by one way direction,
+
+
+->  What is jor koken?
+
+-> Developer der korea test name: 
+1. Unie test, 2. Intigration test, 3. load test, 4. Smoth test, 5.Strage test
+
+ 1, 2, 3, 4
+
+t = 1 
+

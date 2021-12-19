@@ -1,0 +1,19 @@
+
+This, Call, apply, bind
+https://www.youtube.com/watch?v=uZqyRJkTQog&ab_channel=LearnwithSumitBangladesh
+
+Reference type VS Premitive type
+https://www.youtube.com/watch?v=vK8fnE_-NI0&ab_channel=LearnwithSumitBangladesh
+
+
+
+Regular Exp: 
+https://www.youtube.com/watch?v=5ckmCW8png0
+
+https://www.youtube.com/watch?v=hH5-XwMLrP0
+
+
+Brain valo thakar Treetment:
+https://www.youtube.com/watch?v=7lBcsfmRtrI
+
+npx json-server --watch db.json

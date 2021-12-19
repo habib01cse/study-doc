@@ -1,0 +1,131 @@
+
+Software Engineer at SELISE Bangladesh
+==========================================
+Thursday (বৃহস্পতিবার) , 6:00 Start Task 
+Sunday (রবিবার), 6:00 Apply
+Saturday(শনিবার), 
+
+Refer By: Saide vai
+
+https://ngcore.netlify.app/users
+================================
+ng add ngx-bootstrap
+ "bootstrap": "4.1.1",
+ "ngx-bootstrap": "^6.2.0",
+ 
+ Code:
+ https://github.com/habib01cse/nglight
+ 
+ Demo:
+ https://nglight.netlify.app/
+ 
+ ES6
+ https://www.youtube.com/watch?v=9vG5iSn6qfo&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=148
+  
+ Build Command: 
+ ng build --baseHref=https://nglight.netlify.app/ --deployUrl=https://nglight.netlify.app/
+ 
+  When again you or Selise  Front End Software Engineer
+ 
+ 
+ <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+ <div class="invalid-feedback">Example invalid custom select feedback</div>
+ 
+ https://www.freakyjolly.com/angular-rxjs-debounce-time-optimize-search-for-server-response/
+ 
+ 
+ 
+ // Validation
+ https://jasonwatmore.com/post/2020/07/07/angular-10-reactive-forms-validation-example
+ 
+ 
+ng generate module airline --route airline --module app.module
+
+
+Crud:
+https://jasonwatmore.com/post/2020/12/15/angular-11-crud-example-with-reactive-forms
+
+
+Angualr debounce search:
+https://www.freakyjolly.com/angular-rxjs-debounce-time-optimize-search-for-server-response/
+
+
+
+https://valor-software.com/ngx-bootstrap/#/modals
+
+
+
+
+
+https://www.npmjs.com/package/@ng-bootstrap/ng-bootstrap#dependencies
+https://www.npmjs.com/package/ngx-bootstrap
+C:\Users\DELL\AppData\Roaming
+
+
+
+
+where are you living now ?
+
+https://medium.com/ngconf/an-introduction-to-ngmodules-6061241e75e1
+
+
+	Interview Question: leping Logic
+============================================
+How are Angular expressions different from JavaScript expressions?
+What types of compilation Angular provides ? Which one is best ? how to implement in an angular application ?
+What root module & feature module & difference ?
+How are observables different from promises?
+What is the subscribe method in Angular?
+How to make a service a singleton in Angular?
+How will you share the data between components?
+Did you work with route gaurd? How it works
+Did you implemented SSR using Angular universal ? please explain how it works & deploy on any server ?
+Your current & expected salary( if you are selected) ? *
+When u can join ( if you are selected ) ? *
+
+
+Learn with Sumith
+======================================
+https://www.youtube.com/watch?v=U7jIVDdM0fw&list=PLHiZ4m8vCp9NwCTJowt0HTCNRi5K6w4nv&index=3&ab_channel=LearnwithSumitBangladesh
+
+11 minute
+Set datastructure: 
+https://www.youtube.com/watch?v=ACmxamCZrWg&ab_channel=LearnwithSumitBangladesh
+
+https://www.youtube.com/watch?v=BLCml5MSbUI&ab_channel=LearnwithSumitBangladesh
+
+
+
+
+*****Automation services Ltd: Interview*****
+======================================
+In Home > Indicator Mapping
+	Indicator
+================
+	
+
+editRow()
+getIndicatorMappingById()
+ #multiSelect
+
+https://stackblitz.com/edit/ngx-mat-select-search?file=README.md
+Stackblitz: 
+Bank Kolombia (United States of America), Bank L (Germany), Bank M (Germany)
+
+npm:
+https://www.npmjs.com/package/ngx-mat-select-search
+
+ test(){
+	let testParentIndicators =  [
+		{name: 'Item 1', value: 1 },
+		{name: 'Item 2', value: 2 },
+		{name: 'Item 3', value: 3 },
+		{name: 'Item 4', value: 4 },
+		{name: 'Item 5', value: 5 }
+	];
+	this.toppingList = testParentIndicators;
+}
+
+
+
+

@@ -1,0 +1,345 @@
+
+
+Topic:
+
+1. Angular Architecture
+2. Lazay loading
+3. Angula veent binding
+4. Dependency injection
+
+
+What is memory licakje ?
+Why occured corres policy?
+What is Unsubscribe ?
+
+
+
+
+Angualr 25 Question and ANS
+https://www.youtube.com/watch?v=-jeoyDJDsSM
+
+puss 39 min 
+Pass Qus no: 20 
+
+
+https://www.youtube.com/watch?v=wjETJxfw3qw&t=912s
+pass: 47 min
+
+
+
+Ecom Angualr 
+
+video no 8
+Pass 2 min	
+
+
+temp
+how to create module in algualr 10
+https://www.youtube.com/watch?v=CYyv1SOuOz4
+	
+
+
+
+ 
+Angular directive
+https://www.youtube.com/watch?v=lxts9If94xA
+
+
+NID Correction: 
+https://www.youtube.com/watch?v=e1Yp1Kt6yPw
+
+
+
+AdminLTE3 Install
+
+https://www.youtube.com/watch?v=UNomyjz0ewA
+
+
+Install angualr metarials
+https://www.youtube.com/watch?v=
+
+
+
+File uploads with progress: 
+
+https://www.youtube.com/watch?v=YkvqLNcJz3Y
+
+How to deploy angualr project: 
+https://www.youtube.com/watch?v=XznWddgU-D0
+
+
+What is promis ?
+https://www.youtube.com/watch?v=LTdRYWVL3Rc
+pass 20 min
+
+
+Javascript tutorial: 
+59
+https://www.youtube.com/watch?v=Rgz3KriJfAo&list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA&index=59
+
+pass: 42
+
+
+log2base2
+
+
+
+Angualr lifecycle
+
+https://www.youtube.com/watch?v=vrNFylFhn_E
+
+
+
+
+
+
+AdminLTE 3 Install with Angular 9 tutorial with Example
+
+https://www.youtube.com/watch?v=UNomyjz0ewA
+
+Pass: 5
+
+
+
+Demo Path: 
+	https://adminlte.io/themes/dev/AdminLTE/index2.html
+	
+	
+	
+	
+
+
+
+
+Latest Angular Features
+------------------
+
+https://www.youtube.com/watch?v=SChWxVNB_to
+
+
+
+Angualr project update
+---------------------------
+https://www.youtube.com/watch?v=ZpETSHJWpG8
+
+
+
+
+
+
+
+
+What is pacakage-lock.json 
+https://dev.to/saurabhdaware/but-what-the-hell-is-package-lock-json-b04
+
+
+Demo Camp
+----------------
+https://www.youtube.com/watch?v=dGbn2rE57fg&list=PL_XxuZqN0xVDxhacEuNBeuLJc3RHMro3e&index=6&ab_channel=StackLearner
+	
+	Pass: 0
+	
+	
+	
+Poda briz: 
+https://www.youtube.com/watch?v=Fiy0bBTLNv0&ab_channel=HelloJewel
+
+
+
+
+Full stack Video Tutorial Angular Laravel (49)
+====================================================66=8
+
+https://www.youtube.com/watch?v=QfG3P238OY0&list=PLoCegF4aqj2qkoQBKqsHwD0y6xcd3_ujz&ab_channel=JigneshPatel
+
+
+
+Micro services 
+https://www.youtube.com/watch?v=3Fh7VcW4Jk0&list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku&index=5&ab_channel=FoyzulKarim
+4
+
+
+***
+What is?
+Stack Learner
+0 / 8
+------------
+https://www.youtube.com/watch?v=l3Uc-7dxZUM&list=PL_XxuZqN0xVCcq5w4n7cuJnHqm1rYn4_M&ab_channel=StackLearner
+
+	
+	
+Javascript serarch: 
+https://www.ag-grid.com/angular-grid/filter-quick/
+	
+	
+	
+Laravel  book 
+end 2 chapter
+
+
+
+Laravel Role Permissin:
+	Search key: laravel role permission
+	https://www.youtube.com/watch?v=zIgYJlu03bI&list=PLYtuiR2P4Dr72be9bC_vCYLGRTWjVBmUz&ab_channel=Bitfumes
+	
+	Laravel 5.7
+	
+	
+	php: ^7.1.3
+	Laravel: 5.7.*
+	permissin-pakage: ^2.20
+	
+	before: 3,3
+	before: 5, 5
+	Mill: 12/02/2021: 3, 1.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+আপনার রিকুইরমেনট অনেক কিছু, জানি আমি আপনার জন্য perfect কেও না আমি তার পরেও কেন জেনও message করে ফেললাম। আপনি জাকে চান তকে পেলে সুখি হতে পারবেন কি না আমি জানিনা।  But আপনাকে যে চাই তাকে নিয়া যে সুখটা আপনি পাবেন জা আপনি ভাবতে পারবেনা কখোনো। আপনাকে মাথাই তুলে রাখবে সবসময়।
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"./src/assets/AdminLTE/plugins/fontawesome-free/css/all.min.css",
+"./src/assets/AdminLTE/plugins/overlayScrollbars/css/OverlayScrollbars.min.css",
+"./src/assets/AdminLTE/plugins/daterangepicker/daterangepicker.css",
+"./src/assets/AdminLTE/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css",
+"./src/assets/AdminLTE/plugins/select2/css/select2.min.css",
+"./src/assets/AdminLTE/plugins/bootstrap4-duallistbox/bootstrap-duallistbox.min.css",
+"./src/assets/AdminLTE/plugins/icheck-bootstrap/icheck-bootstrap.min.css", 
+"./src/assets/AdminLTE/dist/css/adminite.min.css", 
+"./src/assets/AdminLTE/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css", 
+"./src/assets/AdminLTE/plugins/toastr/toastr.min.css", 
+"./src/assets/AdminLTE/plugins/summernote/summernote-bs4.css"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"./src/assets/AdminLTE/plugins/bootstrap/js/bootstrap.bundle.min.js",
+"./src/assets/AdminLTE/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js",
+"./src/assets/AdminLTE/plugins/select2/js/select2.full.min.js",
+"./src/assets/AdminLTE/plugins/bootstrap4-duallistbox/jquery.bootstrap-duallistbox.min.js",
+"./src/assets/AdminLTE/plugins/moment/moment.min.js",
+"./src/assets/AdminLTE/plugins/inputmask/min/jquery.inputmask.bundle.min.js",
+"./src/assets/AdminLTE/plugins/daterangepicker/daterangepicker.js",
+"./src/assets/AdminLTE/plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.min.js",
+"./src/assets/AdminLTE/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js",
+"./src/assets/AdminLTE/plugins/bootstrap-switch/js/bootstrap-switch.min.js",
+"./src/assets/AdminLTE/plugins/sweetalert2/sweetalert2.min.js",
+"./src/assets/AdminLTE/plugins/toastr/toastr.min.js",
+"./src/assets/AdminLTE/plugins/summernote/summernote-bs4.min.js",
+"./src/assets/AdminLTE/dist/myjs_Toast.js",
+"./src/assets/AdminLTE/dist/js/adminite.min.js"  
+

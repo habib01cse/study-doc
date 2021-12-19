@@ -1,0 +1,27 @@
+
+Angualr:
+
+*** Search key: angular services
+What is services and about services details.
+https://www.youtube.com/watch?v=U71G375Aw6E&ab_channel=ARCTutorials
+Pass: 19
+Nots: 
+Services are singleton
+
+
+*** Serarch key: angular Observable
+https://www.youtube.com/watch?v=c2OG74Lz8Tk&ab_channel=ARCTutorials
+
+
+*** Serarch key: Angular Routing
+https://www.youtube.com/watch?v=QsQMTaNFGh0&ab_channel=ARCTutorials
+Nots: 
+Route is singleton
+
+
+*** JWT
+https://www.youtube.com/watch?v=ODVEqmNz4sg&ab_channel=TechnicalSuneja
+
+https://www.youtube.com/watch?v=926mknSW9Lo&ab_channel=Bitfumes
+
+

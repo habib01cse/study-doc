@@ -1,0 +1,9 @@
+
+Meterial Desing: 
+https://www.youtube.com/watch?v=gL0fJQ4y1O0&list=PLLhsXdvz0qjLpb7wyHEMBughdxoz5vFjP&index=7&ab_channel=UXTrendz
+Pass: 4
+
+
+http://127.0.0.1:8000/api/products/add
+
+Generate an application with routing enabled

@@ -1,0 +1,9 @@
+
+React js Notes: 
+
+***	
+Custom Environment Setup For React 	
+https://www.youtube.com/watch?v=Ckgoc--dgdo&list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs&index=9&ab_channel=StackLearner
+
+	starting project create: 
+	https://createapp.dev/

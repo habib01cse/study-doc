@@ -1,0 +1,174 @@
+https://angular.io/tutorial/toh-pt6
+
+
+
+***
+Ecommerces:
+https://www.youtube.com/watch?v=NdnC2WLeuRc&list=PLC2zPvA4xRS4JYwY5u0EkWivPIS7sWdlt&index=18&ab_channel=ITProfessionals
+https://www.youtube.com/watch?v=-FW57mMcK5o&list=PLC2zPvA4xRS4JYwY5u0EkWivPIS7sWdlt&index=17&ab_channel=ITProfessionals
+
+number:  6
+Pass: 
+
+Done: 21 to 25
+
+
+***
+Angualr 10/11 Serise Total video 62	
+-----------------------------------------
+https://www.youtube.com/watch?v=F-bNGGxWsEU&list=PL8p2I9GklV45JZerGMvw5JVxPSxCg8VPv&index=50
+
+***
+Angualr serise 146 video
+--------------------------------
+Pass: 88 to  100
+https://www.youtube.com/watch?v=hyyHoc2UeUs&list=PLp50dWW_m40VGC5cCup8xK1k1Bn3a0mqG&index=100&ab_channel=ARCTutorialsARCTutorials
+Pass: 00
+
+Important Custom pips 38, and 39
+
+https://www.youtube.com/watch?v=hyyHoc2UeUs&list=PLp50dWW_m40VGC5cCup8xK1k1Bn3a0mqG&index=100&ab_channel=ARCTutorials
+Pass: 00
+start: 83 to 100
+
+No need: 1 to 38
+
+
+***
+Angular 10 Tutorial
+ARC Tutorials
+1 / 80
+
+https://www.youtube.com/watch?v=Fg4spR6cdBQ&list=PLp50dWW_m40XTcxIaXVqO60LaIlyHWxDS&ab_channel=ARCTutorials
+
+
+Ag grid Std
+https://www.youtube.com/watch?v=AeEfiWAGyLc&ab_channel=ag-Grid
+
+
+***
+Angular App Versing update:
+https://www.youtube.com/watch?v=SHt-YBt95qk&ab_channel=Angularin5minutes
+
+
+***
+Important angualr tutorial series
+https://youtu.be/S4rzmjuZWzI
+
+
+
+
+
+ng build --base-href=http://localhost:80/ngstydy/ --deployUrl=http://localhost:80/ngstydy
+
+***
+-> How to reuse component of code in angula application 
+-> RXJS 
+-> ngrx use for Tsate manage
+-> Redux
+-> Angualr Univarsal
+-> Angualr Native Feature or Jaquery
+-> Nginx
+-> How to Configure Nginx VirtualHost - What is nginx 
+	-> Carbon Charts
+	https://angularscript.com/best-chart-data-visualization/
+	
+	-> ngx-charts
+	https://www.ngdevelop.tech/best-angular-chart-libraries/#ngx-charts
+	
+-> Change Detection
+	https://www.youtube.com/watch?v=np6e7McMVCM
+
+XAMPP Version: 7.2.31	
+
+https://medium.com/@2muchcoffee/angular-state-management-a-must-have-for-large-scale-angular-apps-8b98e5a761c7
+https://www.maestralsolutions.com/angular-application-state-management-you-do-not-need-external-data-stores/
+	
+	
+Rxjs Series (In Hindi)
+UX Trendz
+5 / 35
+Second time explore
+https://www.youtube.com/watch?v=zYfPbVnNusk&list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn&index=25&ab_channel=UXTrendz
+Pass: 9
+
+
+https://www.youtube.com/watch?v=ET2UPbsgPL8&list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn&index=20&ab_channel=UXTrendz
+Pass: 0
+
+
+
+bdjobs:
+https://jobs.bdjobs.com/jobdetails.asp?id=977811&fcatId=8&ln=1&JobKeyword=angular%20developer
+
+https://jobs.bdjobs.com/jobdetails.asp?id=976071&fcatId=8&ln=1&JobKeyword=angular%20developer
+
+
+habib01cse@gmail.com
+Janata Tower, Dhaka 1215
+
+Afm Mizan
+
+
+
+
+
+
+
+
+
+I am going to develop a very large application using Angular 7 Framework.
+
+https://stackoverflow.com/questions/55783925/generate-seperate-build-file-for-a-particular-component-in-angular-7
+
+New question anout PDF
+===========
+How to replace Google Chorom default PDF viewer by Acrobat Reader DC
+
+I want to view PDF inside the Chorom Bowser but PDF is view by Acrobat Reader DC PDF reader software that installed my local machine. That means Google Chorom of default PDF viewer instead Acrobat Reader DC PDF reader used. 
+
+
+How to set Chorme or Chromium's built-in PDF viewer as the system default
+I want the Chrome browser's built-in PDF viewer to be the system default, however PDFs opened with Acrobat Reader DC PDF.
+
+
+
+
+
+
+
+Old qustion
+
+How to possible production build a specifics component or module in Angualr 
+
+
+We have a Big ERP Solution, have about 10 module that develop are Angualr.  We can't provide instant support for our client. Because build time is about 40 minute. How to fixed this problem. Please share any idea  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+homio
+https://www.youtube.com/watch?v=X4eWzapzHEk&ab_channel=FarihMasum
+	https://www.youtube.com/watch?v=1Tz7kJ1bIEI&ab_channel=DR.CHANDONA%27SEASIESTANATOMYCLASSES
+
+https://www.youtube.com/c/FarihMasum/playlists
+

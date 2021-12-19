@@ -1,0 +1,64 @@
+cookies er max size: 4 KB = 4096 bytes 
+Localstorage er max size: 5 MB = 5060 KB = 25603600 bytes
+
+=========================================================================================================
+Javascript cource :245
+https://www.youtube.com/watch?v=Lo7Ft0qDgEo&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=236&ab_channel=StackLearner
+236
+
+Second time: 
+https://www.youtube.com/watch?v=33HALfGri7Q&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=84
+
+83
+hasan.m.nayem@gmail.com
+==========================================================================================================
+
+
+
+
+*** how to  Dictionary pattern search in javascript
+*** how to implement search in javascript
+
+***
+https://www.youtube.com/watch?v=QxMBHi_ZiT8&ab_channel=CodingNepal
+
+string.toLocalLowerCase().startWidth()
+***
+https://www.youtube.com/watch?v=SWkPXbQXArk&ab_channel=DavidAcosta
+
+**
+https://www.youtube.com/watch?v=1iysNUrI3lw&t=3s&ab_channel=TraversyMediaTraversyMedia
+
+
+Javascript 16:20:69
+***
+Pass: 5
+https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
+
+
+
+
+2 array problem
+https://stackoverflow.com/questions/50135112/typescript-find-common-objects-from-two-array-using-lambda-function/50135364
+
+
+
+
+
+
+
+
+Important Topic:
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+
+https://www.youtube.com/watch?v=82GZYL-G3_g&ab_channel=StackLearner
+
+
+
+https://www.youtube.com/watch?v=eazoaQMlVTM&ab_channel=StackLearner
+
+https://www.youtube.com/watch?v=iSVCRJMpfKk&ab_channel=StackLearner
+
+
+

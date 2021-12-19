@@ -1,0 +1,10 @@
+
+
+ag-grid PDF
+-------------------------
+https://blog.ag-grid.com/exporting-ag-grid-to-pdf/
+
+https://tutorialslink.com/Articles/How-to-Export-PDF-in-Angular/1277
+
+Exsl export
+https://www.youtube.com/watch?v=WOqi_aitAXY&ab_channel=JsonWorld

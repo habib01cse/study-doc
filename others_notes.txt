@@ -1,0 +1,16 @@
+
+Guthub problem: 
+fatal: The current branch develop has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin develop
+
+
+
+
+
+জীবনটা বেদনা 
+বাস্তবে ও অবস্তা ঠিক এমনি
+তারপরেও ডেভেলপার নাকি ..................
+Whatever we are Developer, So problem is our one kind of life partner. 
+

@@ -1,0 +1,12 @@
+
+Name	Url	User 	Pass
+Ecommarce	http://fictionsoft.com/demo/polo-store	
+User: admin@test.com	
+pass: secret
+Admin	http://fictionsoft.com/demo/polo-store/admin/login		
+			
+			
+			
+User: 	user@user.com		
+	12345678		
+			

@@ -1,0 +1,12 @@
+
+Coding standard
+----------------------
+
+code standard name:
+ psr-2 php
+ 
+IDE package name: Linter package 
+	php er Linter package (php-cs-fixerb)
+	
+	
+	

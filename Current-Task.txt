@@ -1,0 +1,26 @@
+
+Test: 1 < 7 < 3
+https://therichpost.com/angular-13-bootstrap-5-admin-template-free/
+
+->Radio Button add in user (Done)
+->Edit button of data set in user (Done)
+->DatePicker add (Done)
+->ng-select (Done)
+->Spnier (Done)
+	use package: ngx-spnier 
+->Template Driven form example (Done)
+	
+->Pagination  (Runing)
+	ngx-pagination Package 
+	https://www.ngdevelop.tech/best-angular-tables/
+	
+	
+	
+->File upload ...
+
+https://stackoverflow.com/questions/66482170/angular-cant-bind-to-ngclass-since-it-isnt-a-known-property-of-li
+
+->Data grid (ag-grid)
+->Angular Universial
+->Payment Method 
+->Api End Point (Explain)

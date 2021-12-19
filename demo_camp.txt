@@ -1,0 +1,46 @@
+
+
+
+
+1. Project Planing 
+---------------------
+	1. Understand the Project Pluning
+	2. Desing UI
+	3. Make a Prototype
+	4. Create HTML Template
+	5. Develop Frontend 
+	
+
+2. Understand the Project Pluning
+	Requirement, Reseacch and Paluning 
+	
+3. Before jump into project 
+	a. Requirement analysis 
+	b. Research About Project
+	c. Make a Plun
+	c. SRS : Software requirement spacification 
+	
+	
+4. Find Projec Requirement
+
+5. Do some reseacch
+	1. Brand research
+	2. Persona Research
+	3. Design desition
+	4. Information architecture
+	5. Sitemap
+	6. User flow
+	7. Low fidelity wireframing
+	8. UX Desing (Tools Figma, Adobe XD, and Sketch)
+	9. UI Desing and Mockup
+	10. Prototyping (Tools Framer)
+	
+6. Requirement collection 
+7. Build desing system 
+8. Create applicatio UI  
+9. Make Application Portotype
+
+	
+	
+
+

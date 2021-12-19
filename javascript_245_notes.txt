@@ -1,0 +1,149 @@
+
+06/01/2021
+---------------------
+
+Video number: 68
+https://www.youtube.com/watch?v=mSESQG-ek8I&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=68&ab_channel=StackLearner
+
+1. What is the functional Programming
+	Functional programming is a Programming paradigm a style building the structure and element of computer program that treats computation as the 
+	evulation of mathmetical function and avoids chainging state mutable data   
+	
+	
+2. Functional of three terms
+
+
+	1. Pure Function
+	2. First Class function
+	3. Higher order fuction
+	
+	1. Pure Function
+		-------------------
+		ekta function er vitore argument hisabe jodi arek ta function pass korthe pari tahole say function ke 
+			First Class function bola hoy
+			
+	2. First Class function
+		-> A function can be store in a variable
+		-> A function can be sote in an array
+		-> A function can be sote in an object
+		-> We can create function as need 
+		
+		
+	3. Higher order fuction
+		-> A function can be store in a variable
+		-> A function can be sote in an array
+		-> A function can be sote in an object
+		-> We can create function as need 
+		-> We can pass Function as an arguments
+		-> we can return Function Form another function
+		
+
+	
+Chapter 10 Javascript Engine behine the seen	
+		
+https://www.youtube.com/watch?v=33HALfGri7Q&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=84&ab_channel=StackLearner
+
+
+
+https://www.youtube.com/watch?v=T027AHGNoeE&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=85&ab_channel=StackLearner
+	***
+	javascript eigine:  V8 
+	javascript eigine:  JTI (Just in time) compiler 
+	
+OOP
+------------
+	OOP of Main 4 Tearms
+		-> Abstraction
+		-> Encapsulation
+		-> polimorfismo 
+		-> inheritance 
+	
+	
+	
+	Javascript Class
+-----------------------
+	1. Create Class using Factory Pattern
+	2. Create Class using Constructor Pattern
+	
+	Davance and important Tearms 
+---------------------------------
+		1. Pass by value VS Pass by Reference 
+		2. Call by value VS Call by Reference
+		
+		
+***		
+Javascript of getter setter
+------------------------------
+https://www.youtube.com/watch?v=HAPQADxe2SU&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=120&ab_channel=StackLearner
+
+
+***
+Javascript Inheritance
+--------------------------------
+https://www.youtube.com/watch?v=7bJ02BqYh0Y&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=130&ab_channel=StackLearner
+
+
+
+***
+Javascript ES6 Start (138)
+https://www.youtube.com/watch?v=L8fL5OZlaCc&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=138&ab_channel=StackLearner
+
+
+***
+About Webpack
+	video serarch key: webpack crash cources.
+		
+Javascript ES6 Demo propoject refernce for starting new ES6 project 
+	got to git repository in hmnayem git repository of webpack4-demo
+	
+	
+***	
+Rest and Sprade Operators
+	... 
+	if kono function er parameter er argument hisabe use kora hoy tahole se ta rest operator. Are onno je kono jayga use korle seta Sprate operator.
+	
+	
+
+
+***
+ES6 of environment setup
+	https://www.youtube.com/watch?v=epQ-RMNXqUE&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=151&ab_channel=StackLearner
+	
+	1. Webpack 4 
+	2. babel is Trancilator for ES6 to ES5
+	
+	
+Notes for stack overflow account 
+--------------------------------
+
+
+উপমহাদেসে স্বাধীনতা আলেম সমাজের ভুমিকা
+https://www.youtube.com/watch?v=WKgDKq0Z920&ab_channel=PapreeTv
+
+Stack Overflow:
+	User: Habib01
+	Email: habib01cse@gmail.com
+	pass: 123!@#QWE
+		
+	
+
+LinkedIn: Account 
+-----------------------
+	Email: habib01cse@gmail.com
+	pass: 123!@#QWE
+	
+	
+	
+	https://stackoverflow.com/questions/16312528/check-if-an-array-contains-any-element-of-another-array-in-javascript
+	
+arr1 = ["apple","banana","pineapple"];
+(3) ["apple", "banana", "pineapple"]
+arr2 = ["apple","grape"]
+(2) ["apple", "grape"]
+found = arr1.some(r=> arr2.includes(r));
+true
+arr1 = [{name:"apple", price: 5},{name:"pineapple", price: 5}];
+	
+
+
+
