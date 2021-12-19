@@ -23,6 +23,14 @@ Angualr serise 146 video
 --------------------------------
 Pass: 88 to  100
 https://www.youtube.com/watch?v=hyyHoc2UeUs&list=PLp50dWW_m40VGC5cCup8xK1k1Bn3a0mqG&index=100&ab_channel=ARCTutorialsARCTutorials
+
+https://www.youtube.com/watch?v=IkiIsTsj_Mc
+
+https://www.youtube.com/watch?v=7eJq2ziv82Q
+
+https://www.youtube.com/watch?v=dUeUQdqk8WI
+
+
 Pass: 00
 
 Important Custom pips 38, and 39
@@ -84,18 +92,10 @@ XAMPP Version: 7.2.31
 https://medium.com/@2muchcoffee/angular-state-management-a-must-have-for-large-scale-angular-apps-8b98e5a761c7
 https://www.maestralsolutions.com/angular-application-state-management-you-do-not-need-external-data-stores/
 	
-	
-Rxjs Series (In Hindi)
-UX Trendz
-5 / 35
-Second time explore
-https://www.youtube.com/watch?v=zYfPbVnNusk&list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn&index=25&ab_channel=UXTrendz
-Pass: 9
 
-
-https://www.youtube.com/watch?v=ET2UPbsgPL8&list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn&index=20&ab_channel=UXTrendz
-Pass: 0
-
+	JWT Token with Laravel and Angualr (Folow Description)
+===========================================
+https://www.youtube.com/watch?v=brb4SO-dO_k
 
 
 bdjobs:
@@ -110,11 +110,16 @@ Janata Tower, Dhaka 1215
 Afm Mizan
 
 
+Sir I will be able to join on January 1st.
+Receive an appointment letter
+
+663/4,Shaheen Bag,Mohakhali,Tejgaon,Dhaka
 
 
+Walaikum assala
 
-
-
+I am fine and you,
+Yes sir, I can joined from 20th Dec.
 
 
 I am going to develop a very large application using Angular 7 Framework.
@@ -143,6 +148,37 @@ How to possible production build a specifics component or module in Angualr
 
 
 We have a Big ERP Solution, have about 10 module that develop are Angualr.  We can't provide instant support for our client. Because build time is about 40 minute. How to fixed this problem. Please share any idea  
+
+
+
+
+
+Rxjs, 
+Subject 
+debounceTime()
+
+
+
+
+***Reference for ng-template, ng-content, ng-container, ng-template, ngTemplateOutLate ng viewChild, viewChildren
+https://www.youtube.com/watch?v=7lBcsfmRtrI
+https://www.youtube.com/watch?v=MWHd8yZMuGo
+https://www.youtube.com/watch?v=mh-mPibKvog
+https://www.youtube.com/watch?v=C-Dm97ordto
+https://www.youtube.com/watch?v=HZymzX2zW8k
+
+
+
+
+https://www.youtube.com/watch?v=IkiIsTsj_Mc
+
+https://www.youtube.com/watch?v=7eJq2ziv82Q
+
+https://www.youtube.com/watch?v=5Wif6Xyx6AM
+
+https://www.youtube.com/watch?v=dUeUQdqk8WI
+
+https://www.youtube.com/watch?v=ia4ePGh_HX8
 
 
 

@@ -17,3 +17,11 @@ Brain valo thakar Treetment:
 https://www.youtube.com/watch?v=7lBcsfmRtrI
 
 npx json-server --watch db.json
+
+
+
+ng generate module orders --route orders --module app.module
+
+Level-11, Software Technology Park,
+Janata Tower, 49 Kawranbazar C/A,
+Dhaka-1215, Bangladesh
